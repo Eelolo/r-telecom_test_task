@@ -1,6 +1,7 @@
 # r-telecom_test_task
 
-### This project is test task for R-Telecom company
+### This project is test task for R-Telecom company. Written with FastApi, Postgres, Sqlalchemy, Docker.  
+
 ![image](https://user-images.githubusercontent.com/75232682/190947018-3a4b1341-af29-4411-a678-9e84319a5e7f.png)
 
 # Setup:
